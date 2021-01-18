@@ -1,4 +1,4 @@
-package com.DesignsLogin.DesignsLogin;
+package com.crmlogin.manage;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

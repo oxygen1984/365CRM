@@ -1,4 +1,4 @@
-package com.DesignsLogin.DesignsLogin;
+package com.crmlogin.manage;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

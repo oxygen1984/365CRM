@@ -1,4 +1,4 @@
-package com.DesignsLogin.DesignsLogin;
+package com.crmlogin.manage;
 
 import javax.validation.constraints.AssertTrue;
 import javax.validation.constraints.Email;
